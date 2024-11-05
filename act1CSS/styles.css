@@ -1,0 +1,39 @@
+.enc1{
+    color: rgb(118, 230, 228);
+}
+.enc2{
+    color: rgb(37, 61, 197);
+}
+
+.tabla {
+    
+    border-collapse: collapse;
+
+}
+
+.destRojo{
+    color: red;
+}
+
+.destacadoNaranga{
+    color: orange;
+}
+
+.azulBoli{
+    color: blue;
+}
+
+.especial{
+    color: blueviolet;
+}
+
+.verdeTabla{
+    color: rgb(92, 222, 16);
+}
+.pistachoTexto{
+    color: #93C572;
+}
+
+.rosa{
+    color: palevioletred;
+}
